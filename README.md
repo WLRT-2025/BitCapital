@@ -2,9 +2,9 @@
 
 BitCapital is the applied implementation and research layer of the broader WLRT / WaveCounter ecosystem.
 
-This repository provides public documentation for the BitCapital Research Pool, related architectural materials, and the evolving role of KEFEN within a WLRT / WaveCounter-based structural liquidity environment.
+This repository provides public documentation for the BitCapital Research Pool, architectural materials, KEFEN-related functional documentation, and publication standards for research materials derived from the BitCapital environment.
 
-The repository is intended to clarify the separation between theory, intellectual property, applied implementation, internal research, token functionality, and future operator-oriented platform use.
+The purpose of this repository is to clarify the separation between theory, intellectual property, applied implementation, internal research, token functionality, and future operator-oriented platform use.
 
 ## What BitCapital is
 
@@ -48,7 +48,7 @@ The BitCapital layer exists inside a broader ecosystem:
 
 ## Repository Contents
 
-### Core documents
+### Core policy documents
 
 - [`docs/bitcapital_research_pool_policy_en.md`](docs/bitcapital_research_pool_policy_en.md)  
   Canonical English-language policy for the BitCapital Research Pool.
@@ -64,10 +64,21 @@ The BitCapital layer exists inside a broader ecosystem:
 - [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
   Russian-language version of the KEFEN role document.
 
-### Architecture
+### Architecture documents
 
 - [`architecture/ecosystem-overview.md`](architecture/ecosystem-overview.md)  
   High-level description of the ecosystem structure and the relationship between WLRT, WaveCounter, BitCapital, KEFEN, and future operator/client layers.
+
+- [`architecture/repository-map.md`](architecture/repository-map.md)  
+  Orientation map of the main public repositories in the broader ecosystem.
+
+### Publication standards
+
+- [`docs/research-publication-standard_en.md`](docs/research-publication-standard_en.md)  
+  Standard for publishing research materials derived from the BitCapital Research Pool and related internal applied research.
+
+- [`docs/research-publication-standard_ru.md`](docs/research-publication-standard_ru.md)  
+  Russian-language version of the same publication standard.
 
 ## KEFEN in this Repository
 
@@ -77,6 +88,19 @@ In the current stage, KEFEN is used inside the BitCapital Research Pool together
 
 KEFEN does not represent equity in BitCapital, ownership of pool assets, or guaranteed economic rights.
 
+## Publication Approach
+
+Materials derived from the BitCapital Research Pool are intended to follow a research-oriented and non-promotional publication standard.
+
+The emphasis is placed on:
+- method before outcome;
+- observation before promotion;
+- context before interpretation;
+- limits before claims;
+- research before recommendation.
+
+This repository therefore functions not only as a document archive, but also as a controlled public interface for methodology-related publications.
+
 ## Repository Scope
 
 This repository documents the BitCapital layer only.
@@ -84,7 +108,9 @@ This repository documents the BitCapital layer only.
 It should be read together with the repositories and materials dedicated to:
 - WLRT;
 - WaveCounter;
-- KEFEN / kefen-registry.
+- wavecounter-engineering-canon;
+- KEFEN / kefen-registry;
+- related structural research such as MALN.
 
 ## Status
 
