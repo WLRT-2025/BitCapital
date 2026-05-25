@@ -64,6 +64,90 @@ The BitCapital layer exists inside a broader ecosystem:
 - [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
   Russian-language version of the KEFEN role document.
 
+## Documentation
+
+### Core documents
+
+- [`docs/bitcapital-public-overview_en.md`](docs/bitcapital-public-overview_en.md)  
+  Public English-language overview of BitCapital, its current role, and the broader applied context.
+
+- [`docs/bitcapital-public-overview_ru.md`](docs/bitcapital-public-overview_ru.md)  
+  Russian-language public overview of BitCapital and its current architectural position.
+
+- [`docs/bitcapital_research_pool_policy_en.md`](docs/bitcapital_research_pool_policy_en.md)  
+  Core policy document describing the internal research-pool framework and its boundaries.
+
+- [`docs/bitcapital_research_pool_policy_ru.md`](docs/bitcapital_research_pool_policy_ru.md)  
+  Russian-language version of the research-pool policy document.
+
+- [`docs/research-publication-standard_en.md`](docs/research-publication-standard_en.md)  
+  Standard for preparing public-facing research and methodological materials.
+
+- [`docs/research-publication-standard_ru.md`](docs/research-publication-standard_ru.md)  
+  Russian-language version of the publication standard.
+
+- [`docs/disclaimer_en.md`](docs/disclaimer_en.md)  
+  English-language disclaimer for research, educational, and non-promotional use.
+
+- [`docs/disclaimer_ru.md`](docs/disclaimer_ru.md)  
+  Russian-language disclaimer for research, educational, and non-promotional use.
+
+- [`docs/kefen_in_bitcapital_research_pool_en.md`](docs/kefen_in_bitcapital_research_pool_en.md)  
+  English-language note on KEFEN’s current role inside the BitCapital Research Pool.
+
+- [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
+  Russian-language note on KEFEN’s current role inside the BitCapital Research Pool.
+
+### Cases
+
+#### Monthly notes
+
+- [`docs/cases/bitcapital-research-pool_january-2026_en.md`](docs/cases/bitcapital-research-pool_january-2026_en.md)  
+  Structural note for January 2026.
+
+- [`docs/cases/bitcapital-research-pool_january-2026_ru.md`](docs/cases/bitcapital-research-pool_january-2026_ru.md)  
+  Структурная заметка за январь 2026 года.
+
+- [`docs/cases/bitcapital-research-pool_february-2026_en.md`](docs/cases/bitcapital-research-pool_february-2026_en.md)  
+  Structural note for February 2026.
+
+- [`docs/cases/bitcapital-research-pool_february-2026_ru.md`](docs/cases/bitcapital-research-pool_february-2026_ru.md)  
+  Структурная заметка за февраль 2026 года.
+
+- [`docs/cases/bitcapital-research-pool_march-2026_en.md`](docs/cases/bitcapital-research-pool_march-2026_en.md)  
+  Structural note for March 2026.
+
+- [`docs/cases/bitcapital-research-pool_march-2026_ru.md`](docs/cases/bitcapital-research-pool_march-2026_ru.md)  
+  Структурная заметка за март 2026 года.
+
+- [`docs/cases/bitcapital-research-pool_april-2026_en.md`](docs/cases/bitcapital-research-pool_april-2026_en.md)  
+  Structural note for April 2026.
+
+- [`docs/cases/bitcapital-research-pool_april-2026_ru.md`](docs/cases/bitcapital-research-pool_april-2026_ru.md)  
+  Структурная заметка за апрель 2026 года.
+
+#### Summary reports
+
+- [`docs/cases/bitcapital-research-pool_january-april-2026_en.md`](docs/cases/bitcapital-research-pool_january-april-2026_en.md)  
+  Consolidated report for January–April 2026.
+
+- [`docs/cases/bitcapital-research-pool_january-april-2026_ru.md`](docs/cases/bitcapital-research-pool_january-april-2026_ru.md)  
+  Сводный отчёт за январь–апрель 2026 года.
+
+- [`docs/cases/bitcapital-research-pool_mar-may-2026_en.md`](docs/cases/bitcapital-research-pool_mar-may-2026_en.md)  
+  Structural report for March–May 2026.
+
+- [`docs/cases/bitcapital-research-pool_mar-may-2026_ru.md`](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
+  Структурный отчёт за март–май 2026 года.
+
+## Related repositories
+
+- Theory layer: [WLRT](https://github.com/WLRT-2025/WLRT)
+- Applied system layer: [WaveCounter](https://github.com/WLRT-2025/WaveCounter)
+- Public token documentation layer: [kefen-registry](https://github.com/WLRT-2025/kefen-registry)
+
+
+
 ### Architecture documents
 
 - [`architecture/ecosystem-overview.md`](architecture/ecosystem-overview.md)  
