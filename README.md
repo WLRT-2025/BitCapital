@@ -1,64 +1,91 @@
-# BitCapital Research Pool
+# BitCapital
 
-This repository provides the public documentation for the **BitCapital Research Pool** — an internal liquidity environment operated by BitCapital for research, testing, and applied validation of WLRT and WaveCounter™ Liquidity Pool Management System (LPM).
+BitCapital is the applied implementation and research layer of the broader WLRT / WaveCounter ecosystem.
 
-The Research Pool is not a client product, investment vehicle, or financial advisory service. It is an internal R&D and educational environment.
+This repository provides public documentation for the BitCapital Research Pool, related architectural materials, and the evolving role of KEFEN within a WLRT / WaveCounter-based structural liquidity environment.
 
-## Repository contents
+The repository is intended to clarify the separation between theory, intellectual property, applied implementation, internal research, token functionality, and future operator-oriented platform use.
 
-- `docs/bitcapital_research_pool_policy_en.md`  
-  Canonical description of the status, purpose, boundaries, and publication principles of the BitCapital Research Pool.
+## What BitCapital is
 
-- `docs/bitcapital_research_pool_policy_ru.md`  
-  Russian-language version of the same Policy.
+BitCapital is not presented here as a public investment fund, client asset-management structure, or financial advisory service.
 
-- `architecture/ecosystem-overview.md`  
-  High-level overview of the ecosystem: WLRT, WaveCounter IP S.L., BitCapital, KEFEN, future Operators and Clients, and how the Research Pool fits into this structure.
+Within the scope of this repository, BitCapital is described as:
+- an applied implementation environment for WLRT and WaveCounter principles;
+- an internal research and testing layer;
+- a software and operational design space for future products;
+- a future licensing, educational, and operator-support layer.
 
-Additional documents (planned):
+## The BitCapital Research Pool
 
-- `docs/kefen_in_bitcapital_research_pool_en.md` / `_ru.md`  
-  Detailed description of the functional role of KEFEN inside the Research Pool and in the broader BitCapital / WLRT ecosystem.
+The BitCapital Research Pool is an internal liquidity environment operated with BitCapital’s own funds.
 
-- `docs/publication_standard_en_ru.md`  
-  Guidelines for publishing research materials derived from the Pool (case studies, examples, methodological notes) without creating investment or advisory implications.
+It is used for:
+- applied testing and validation of WLRT and WaveCounter™ Liquidity Pool Management System (LPM);
+- observation of role-based liquidity behavior under live market conditions;
+- testing reserve logic, structural fragility, regime changes, and intervention logic;
+- generating methodological observations, internal records, and future educational materials.
 
-## Conceptual background
+The Research Pool does not accept external capital and is not a client pool.
 
-The BitCapital Research Pool is based on:
+## Definition of Liquidity
 
-- **Wave Liquidity Redistribution Theory (WLRT)** – the theoretical framework for liquidity as a structural state variable.  
-- **WaveCounter™ Liquidity Pool Management System (LPM) — v1.0** – an applied structural system for managing liquidity pools as dynamic systems with roles, fragility, reserve architecture, and regime transitions.
+For the purposes of the BitCapital Research Pool, liquidity is understood as the capacity of a system to reallocate resources between available states, assets, or configurations while preserving its operational continuity.
 
-Within this framework:
+Liquidity is not limited to cash or trading volume. It may be represented by capital, reserves, market access, tradable assets, execution capacity, or other resources that enable adaptation to changing conditions.
 
-- Liquidity is understood as the capacity of a system to reallocate resources between available states, assets, or configurations while preserving its operational continuity.
-- Liquidity is not limited to cash or trading volume. It may be represented by capital, reserves, market access, tradable assets, execution capacity, or other resources that enable adaptation to changing conditions.
-- The purpose of liquidity management within the Pool is not merely to maximize returns, but to maintain the ability of the system to respond to environmental changes without losing functional stability.
+The purpose of liquidity management within the Pool is not merely to maximize returns, but to maintain the ability of the system to respond to environmental changes without losing functional stability.
 
-## Relation to KEFEN
+## Ecosystem Context
 
-KEFEN is used in the Research Pool as one of the structural components of the role-based liquidity architecture. It serves as an experimental and functional element for studying executive / utility token behavior within the WLRT / WaveCounter LPM framework.
+The BitCapital layer exists inside a broader ecosystem:
+- **WLRT** provides the foundational theoretical framework;
+- **WaveCounter** provides applied system logic and engineering direction;
+- **WaveCounter IP S.L.** is intended to hold and develop the relevant intellectual property and trademarks;
+- **BitCapital** provides applied implementation and research practice;
+- **KEFEN** functions as a structural and experimental token component within the broader architecture;
+- **Independent Operators** and **Clients** may form separate future layers under distinct structures.
 
-Holding KEFEN does **not** grant ownership rights in BitCapital, rights to Pool assets, or any guaranteed economic entitlement.
+## Repository Contents
 
-(For full details see the Policy documents in `docs/`.)
+### Core documents
 
-## Relation to WLRT, WaveCounter IP S.L. and BitCapital
+- [`docs/bitcapital_research_pool_policy_en.md`](docs/bitcapital_research_pool_policy_en.md)  
+  Canonical English-language policy for the BitCapital Research Pool.
 
-This repository documents only the internal Research Pool operated by BitCapital.
+- [`docs/bitcapital_research_pool_policy_ru.md`](docs/bitcapital_research_pool_policy_ru.md)  
+  Russian-language version of the same policy.
 
-- **WLRT** – theoretical framework authored by the creator of WLRT.  
-- **WaveCounter IP S.L.** – IP holding and research entity for WaveCounter technologies and trademarks.  
-- **BitCapital** – software application, experimental implementation, and educational / licensing layer.
+### KEFEN-related documents
 
-The Research Pool does not accept client funds and is not a client-facing product.
+- [`docs/kefen_in_bitcapital_research_pool_en.md`](docs/kefen_in_bitcapital_research_pool_en.md)  
+  Description of KEFEN’s current and future functional role within the Research Pool and broader ecosystem.
 
----
+- [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
+  Russian-language version of the KEFEN role document.
 
-## Русская краткая справка
+### Architecture
 
-Этот репозиторий содержит документацию **Исследовательского пула BitCapital** — внутренней среды ликвидности, используемой для разработки, тестирования и прикладной валидации методов WLRT и WaveCounter™ LPM.
+- [`architecture/ecosystem-overview.md`](architecture/ecosystem-overview.md)  
+  High-level description of the ecosystem structure and the relationship between WLRT, WaveCounter, BitCapital, KEFEN, and future operator/client layers.
 
-Пул **не** является клиентским продуктом, инвестиционным инструментом или финансовой консультацией.  
-Полные тексты на русском языке смотрите в `docs/bitcapital_research_pool_policy_ru.md`.
+## KEFEN in this Repository
+
+KEFEN is documented here as a functional and experimental token component within a role-based liquidity architecture.
+
+In the current stage, KEFEN is used inside the BitCapital Research Pool together with other assets as part of an internal applied environment. In future stages, KEFEN may evolve into access, status, executive, or governance-related roles if these are separately defined in policy and architecture materials.
+
+KEFEN does not represent equity in BitCapital, ownership of pool assets, or guaranteed economic rights.
+
+## Repository Scope
+
+This repository documents the BitCapital layer only.
+
+It should be read together with the repositories and materials dedicated to:
+- WLRT;
+- WaveCounter;
+- KEFEN / kefen-registry.
+
+## Status
+
+This repository is an evolving public documentation space. Materials may be revised as the architectural separation between WLRT, WaveCounter IP S.L., BitCapital, KEFEN, operator training, software licensing, and future external use layers becomes more detailed.
