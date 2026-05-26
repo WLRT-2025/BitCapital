@@ -102,6 +102,11 @@ The BitCapital layer exists inside a broader ecosystem:
 - [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
   Russian-language note on KEFEN’s current role inside the BitCapital Research Pool.
 
+- [`docs/index.md`](docs/index.md)  
+  Compact index of all BitCapital documentation files in this repository.
+
+
+
 ### Cases
 
 #### Monthly notes
