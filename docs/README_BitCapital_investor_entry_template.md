@@ -21,7 +21,7 @@ BitCapital Research Pool является внутренней средой уп
 | Состояние пула | Инвесторы, наблюдатели, операторы | [Перейти](#состояние-пула) |
 | Управление для новых участников | Новые участники, координаторы | [Перейти](#управление-для-новых-участников) |
 | Ежемесячные отчеты | Инвесторы, аудиторы, аналитики | [Перейти](#ежемесячные-отчеты) |
-| Экосистема | Партнеры, стратегические участники | [docs/ecosystem-overview.md](docs/ecosystem-overview.md) |
+| Экосистема | Партнеры, стратегические участники | [architecture/ecosystem-overview.md](docs/ecosystem-overview.md) |
 | Карта репозитория | Все участники | [docs/repository-map.md](docs/repository-map.md) |
 | Стандарт публикаций | Авторы отчетов | [docs/research-publication-standard_ru.md](docs/research-publication-standard_ru.md) |
 | Дисклеймер | Все читатели | [docs/disclaimer_ru.md](docs/disclaimer_ru.md) |
