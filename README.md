@@ -7,14 +7,14 @@ This repository provides public documentation for the BitCapital Research Pool, 
 The purpose of this repository is to clarify the separation between theory, intellectual property, applied implementation, internal research, token functionality, and future operator-oriented platform use.
 
 > Additional Russian-language orientation note:  
-> [`docs/README_BitCapital_investor_entry_template.md`](docs/README_BitCapital_investor_entry_template.md)
-
+> [README_BitCapital_investor_entry_template.md](docs/README_BitCapital_investor_entry_template.md)
 
 ## What BitCapital is
 
 BitCapital is not presented here as a public investment fund, client asset-management structure, or financial advisory service.
 
 Within the scope of this repository, BitCapital is described as:
+
 - an applied implementation environment for WLRT and WaveCounter principles;
 - an internal research and testing layer;
 - a software and operational design space for future products;
@@ -25,7 +25,8 @@ Within the scope of this repository, BitCapital is described as:
 The BitCapital Research Pool is an internal liquidity environment operated with BitCapital’s own funds.
 
 It is used for:
-- applied testing and validation of WLRT and WaveCounter™ Liquidity Pool Management System (LPM);
+
+- applied testing and validation of WLRT and WaveCounter™ Liquidity Pool Management System;
 - observation of role-based liquidity behavior under live market conditions;
 - testing reserve logic, structural fragility, regime changes, and intervention logic;
 - generating methodological observations, internal records, and future educational materials.
@@ -43,6 +44,7 @@ The purpose of liquidity management within the Pool is not merely to maximize re
 ## Ecosystem Context
 
 The BitCapital layer exists inside a broader ecosystem:
+
 - **WLRT** provides the foundational theoretical framework;
 - **WaveCounter** provides applied system logic and engineering direction;
 - **WaveCounter IP S.L.** is intended to hold and develop the relevant intellectual property and trademarks;
@@ -50,128 +52,107 @@ The BitCapital layer exists inside a broader ecosystem:
 - **KEFEN** functions as a structural and experimental token component within the broader architecture;
 - **Independent Operators** and **Clients** may form separate future layers under distinct structures.
 
-## Repository Contents
-
-### Core policy documents
-
-- [`docs/bitcapital_research_pool_policy_en.md`](docs/bitcapital_research_pool_policy_en.md)  
-  Canonical English-language policy for the BitCapital Research Pool.
-
-- [`docs/bitcapital_research_pool_policy_ru.md`](docs/bitcapital_research_pool_policy_ru.md)  
-  Russian-language version of the same policy.
-
-### KEFEN-related documents
-
-- [`docs/kefen_in_bitcapital_research_pool_en.md`](docs/kefen_in_bitcapital_research_pool_en.md)  
-  Description of KEFEN’s current and future functional role within the Research Pool and broader ecosystem.
-
-- [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
-  Russian-language version of the KEFEN role document.
-
 ## Documentation
+
+### Index
+
+- [Documentation index](docs/index.md)  
+  Compact index of all BitCapital documentation files in this repository.
 
 ### Core documents
 
-- [`docs/bitcapital-public-overview_en.md`](docs/bitcapital-public-overview_en.md)  
+- [BitCapital public overview EN](docs/bitcapital-public-overview_en.md)  
   Public English-language overview of BitCapital, its current role, and the broader applied context.
 
-- [`docs/bitcapital-public-overview_ru.md`](docs/bitcapital-public-overview_ru.md)  
+- [BitCapital public overview RU](docs/bitcapital-public-overview_ru.md)  
   Russian-language public overview of BitCapital and its current architectural position.
 
-- [`docs/bitcapital_research_pool_policy_en.md`](docs/bitcapital_research_pool_policy_en.md)  
-  Core policy document describing the internal research-pool framework and its boundaries.
+- [BitCapital Research Pool policy EN](docs/bitcapital_research_pool_policy_en.md)  
+  Canonical English-language policy for the BitCapital Research Pool.
 
-- [`docs/bitcapital_research_pool_policy_ru.md`](docs/bitcapital_research_pool_policy_ru.md)  
+- [BitCapital Research Pool policy RU](docs/bitcapital_research_pool_policy_ru.md)  
   Russian-language version of the research-pool policy document.
 
-- [`docs/research-publication-standard_en.md`](docs/research-publication-standard_en.md)  
+- [Research publication standard EN](docs/research-publication-standard_en.md)  
   Standard for preparing public-facing research and methodological materials.
 
-- [`docs/research-publication-standard_ru.md`](docs/research-publication-standard_ru.md)  
+- [Research publication standard RU](docs/research-publication-standard_ru.md)  
   Russian-language version of the publication standard.
 
-- [`docs/disclaimer_en.md`](docs/disclaimer_en.md)  
+- [Disclaimer EN](docs/disclaimer_en.md)  
   English-language disclaimer for research, educational, and non-promotional use.
 
-- [`docs/disclaimer_ru.md`](docs/disclaimer_ru.md)  
+- [Disclaimer RU](docs/disclaimer_ru.md)  
   Russian-language disclaimer for research, educational, and non-promotional use.
 
-- [`docs/kefen_in_bitcapital_research_pool_en.md`](docs/kefen_in_bitcapital_research_pool_en.md)  
-  English-language note on KEFEN’s current role inside the BitCapital Research Pool.
+### KEFEN-related documents
 
-- [`docs/kefen_in_bitcapital_research_pool_ru.md`](docs/kefen_in_bitcapital_research_pool_ru.md)  
-  Russian-language note on KEFEN’s current role inside the BitCapital Research Pool.
+- [KEFEN in BitCapital Research Pool EN](docs/kefen_in_bitcapital_research_pool_en.md)  
+  Description of KEFEN’s current and future functional role within the Research Pool and broader ecosystem.
 
-- [`docs/index.md`](docs/index.md)  
-  Compact index of all BitCapital documentation files in this repository.
-
-
-
-### Cases
-
-#### Monthly notes
-
-- [`docs/cases/bitcapital-research-pool_january-2026_en.md`](docs/cases/bitcapital-research-pool_january-2026_en.md)  
-  Structural note for January 2026.
-
-- [`docs/cases/bitcapital-research-pool_january-2026_ru.md`](docs/cases/bitcapital-research-pool_january-2026_ru.md)  
-  Структурная заметка за январь 2026 года.
-
-- [`docs/cases/bitcapital-research-pool_february-2026_en.md`](docs/cases/bitcapital-research-pool_february-2026_en.md)  
-  Structural note for February 2026.
-
-- [`docs/cases/bitcapital-research-pool_february-2026_ru.md`](docs/cases/bitcapital-research-pool_february-2026_ru.md)  
-  Структурная заметка за февраль 2026 года.
-
-- [`docs/cases/bitcapital-research-pool_march-2026_en.md`](docs/cases/bitcapital-research-pool_march-2026_en.md)  
-  Structural note for March 2026.
-
-- [`docs/cases/bitcapital-research-pool_march-2026_ru.md`](docs/cases/bitcapital-research-pool_march-2026_ru.md)  
-  Структурная заметка за март 2026 года.
-
-- [`docs/cases/bitcapital-research-pool_april-2026_en.md`](docs/cases/bitcapital-research-pool_april-2026_en.md)  
-  Structural note for April 2026.
-
-- [`docs/cases/bitcapital-research-pool_april-2026_ru.md`](docs/cases/bitcapital-research-pool_april-2026_ru.md)  
-  Структурная заметка за апрель 2026 года.
-
-#### Summary reports
-
-- [`docs/cases/bitcapital-research-pool_january-april-2026_en.md`](docs/cases/bitcapital-research-pool_january-april-2026_en.md)  
-  Consolidated report for January–April 2026.
-
-- [`docs/cases/bitcapital-research-pool_january-april-2026_ru.md`](docs/cases/bitcapital-research-pool_january-april-2026_ru.md)  
-  Сводный отчёт за январь–апрель 2026 года.
-
-- [`docs/cases/bitcapital-research-pool_mar-may-2026_en.md`](docs/cases/bitcapital-research-pool_mar-may-2026_en.md)  
-  Structural report for March–May 2026.
-
-- [`docs/cases/bitcapital-research-pool_mar-may-2026_ru.md`](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
-  Структурный отчёт за март–май 2026 года.
-
-## Related repositories
-
-- Theory layer: [WLRT](https://github.com/WLRT-2025/WLRT)
-- Applied system layer: [WaveCounter](https://github.com/WLRT-2025/WaveCounter)
-- Public token documentation layer: [kefen-registry](https://github.com/WLRT-2025/kefen-registry)
-
-
+- [KEFEN in BitCapital Research Pool RU](docs/kefen_in_bitcapital_research_pool_ru.md)  
+  Russian-language version of the KEFEN role document.
 
 ### Architecture documents
 
-- [`architecture/ecosystem-overview.md`](architecture/ecosystem-overview.md)  
+- [Ecosystem overview](architecture/ecosystem-overview.md)  
   High-level description of the ecosystem structure and the relationship between WLRT, WaveCounter, BitCapital, KEFEN, and future operator/client layers.
 
-- [`architecture/repository-map.md`](architecture/repository-map.md)  
+- [Repository map](architecture/repository-map.md)  
   Orientation map of the main public repositories in the broader ecosystem.
 
-### Publication standards
+## Cases
 
-- [`docs/research-publication-standard_en.md`](docs/research-publication-standard_en.md)  
-  Standard for publishing research materials derived from the BitCapital Research Pool and related internal applied research.
+### Monthly notes
 
-- [`docs/research-publication-standard_ru.md`](docs/research-publication-standard_ru.md)  
-  Russian-language version of the same publication standard.
+- [January 2026 EN](docs/cases/bitcapital-research-pool_january-2026_en.md)  
+  Structural note for January 2026.
+
+- [January 2026 RU](docs/cases/bitcapital-research-pool_january-2026_ru.md)  
+  Структурная заметка за январь 2026 года.
+
+- [February 2026 EN](docs/cases/bitcapital-research-pool_february-2026_en.md)  
+  Structural note for February 2026.
+
+- [February 2026 RU](docs/cases/bitcapital-research-pool_february-2026_ru.md)  
+  Структурная заметка за февраль 2026 года.
+
+- [March 2026 EN](docs/cases/bitcapital-research-pool_march-2026_en.md)  
+  Structural note for March 2026.
+
+- [March 2026 RU](docs/cases/bitcapital-research-pool_march-2026_ru.md)  
+  Структурная заметка за март 2026 года.
+
+- [April 2026 EN](docs/cases/bitcapital-research-pool_april-2026_en.md)  
+  Structural note for April 2026.
+
+- [April 2026 RU](docs/cases/bitcapital-research-pool_april-2026_ru.md)  
+  Структурная заметка за апрель 2026 года.
+
+### Summary reports
+
+- [January-April 2026 EN](docs/cases/bitcapital-research-pool_january-april-2026_en.md)  
+  Consolidated report for January-April 2026.
+
+- [January-April 2026 RU](docs/cases/bitcapital-research-pool_january-april-2026_ru.md)  
+  Сводный отчёт за январь-апрель 2026 года.
+
+- [March-May 2026 EN](docs/cases/bitcapital-research-pool_mar-may-2026_en.md)  
+  Structural report for March-May 2026.
+
+- [March-May 2026 RU](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
+  Структурный отчёт за март-май 2026 года.
+
+## Related repositories
+
+- [WLRT](https://github.com/WLRT-2025/WLRT)  
+  Theory layer.
+
+- [WaveCounter](https://github.com/WLRT-2025/WaveCounter)  
+  Applied system layer.
+
+- [kefen-registry](https://github.com/WLRT-2025/kefen-registry)  
+  Public token documentation layer.
 
 ## KEFEN in this Repository
 
@@ -186,6 +167,7 @@ KEFEN does not represent equity in BitCapital, ownership of pool assets, or guar
 Materials derived from the BitCapital Research Pool are intended to follow a research-oriented and non-promotional publication standard.
 
 The emphasis is placed on:
+
 - method before outcome;
 - observation before promotion;
 - context before interpretation;
@@ -199,6 +181,7 @@ This repository therefore functions not only as a document archive, but also as 
 This repository documents the BitCapital layer only.
 
 It should be read together with the repositories and materials dedicated to:
+
 - WLRT;
 - WaveCounter;
 - wavecounter-engineering-canon;
