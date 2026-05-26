@@ -6,6 +6,10 @@ This repository provides public documentation for the BitCapital Research Pool, 
 
 The purpose of this repository is to clarify the separation between theory, intellectual property, applied implementation, internal research, token functionality, and future operator-oriented platform use.
 
+> Additional Russian-language orientation note:  
+> [`docs/README_BitCapital_investor_entry_template.md`](docs/README_BitCapital_investor_entry_template.md)
+
+
 ## What BitCapital is
 
 BitCapital is not presented here as a public investment fund, client asset-management structure, or financial advisory service.
