@@ -6,7 +6,7 @@
 [![Liquidity Mode](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F%3CORG%3E%2F%3CREPO%3E%2Fmain%2F.status%2Fliquidity-mode.json)](#состояние-пула)
 [![Last Monthly Report](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F%3CORG%3E%2F%3CREPO%3E%2Fmain%2F.status%2Flast-report.json)](#ежемесячные-отчеты)
 [![Governance Phase](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F%3CORG%3E%2F%3CREPO%3E%2Fmain%2F.status%2Fgovernance-phase.json)](#управление-для-новых-участников)
-[![Research Standard](https://img.shields.io/badge/research-standard%20first-blue)](docs/research-publication-standard_ru.md)
+[![Research Standard](https://img.shields.io/badge/research-standard%20first-blue)](research-publication-standard_ru.md)
 
 ## Назначение репозитория
 
@@ -21,10 +21,10 @@ BitCapital Research Pool является внутренней средой уп
 | Состояние пула | Инвесторы, наблюдатели, операторы | [Перейти](#состояние-пула) |
 | Управление для новых участников | Новые участники, координаторы | [Перейти](#управление-для-новых-участников) |
 | Ежемесячные отчеты | Инвесторы, аудиторы, аналитики | [Перейти](#ежемесячные-отчеты) |
-| Экосистема | Партнеры, стратегические участники | [architecture/ecosystem-overview.md](architecture/ecosystem-overview.md) |
-| Карта репозитория | Все участники | [docs/repository-map.md](docs/repository-map.md) |
-| Стандарт публикаций | Авторы отчетов | [docs/research-publication-standard_ru.md](docs/research-publication-standard_ru.md) |
-| Дисклеймер | Все читатели | [docs/disclaimer_ru.md](docs/disclaimer_ru.md) |
+| Экосистема | Партнеры, стратегические участники | [../architecture/ecosystem-overview.md](../architecture/ecosystem-overview.md) |
+| Карта репозитория | Все участники | [../architecture/repository-map.md](../architecture/repository-map.md) |
+| Стандарт публикаций | Авторы отчетов | [research-publication-standard_ru.md](research-publication-standard_ru.md) |
+| Дисклеймер | Все читатели | [disclaimer_ru.md](disclaimer_ru.md) |
 
 ## Состояние пула
 
@@ -36,7 +36,7 @@ BitCapital Research Pool является внутренней средой уп
 | Режим ликвидности | `observation / reallocation / defensive / expansion` | `.status/liquidity-mode.json` |
 | Последний отчет | `April 2026` | `.status/last-report.json` |
 | Фаза управления | `internal research governance` | `.status/governance-phase.json` |
-| Следующее обновление | `YYYY-MM-DD` | `docs/monthly-reports/` |
+| Следующее обновление | `YYYY-MM-DD` | `docs/cases/` |
 
 ### Формат динамических бейджей
 
@@ -91,8 +91,8 @@ BitCapital Research Pool является внутренней средой уп
 ### Перед началом
 
 1. Изучите назначение BitCapital и Research Pool в этом README.
-2. Прочитайте [экосистемный обзор](docs/ecosystem-overview.md), чтобы понять связку WLRT, WaveCounter, WaveCounter IP S.L., BitCapital, Research Pool и KEFEN.
-3. Ознакомьтесь с последними ежемесячными отчетами, начиная с [последнего доступного отчета](docs/monthly-reports/bitcapital-research-pool_april-2026_en.md).
+2. Прочитайте [экосистемный обзор](../architecture/ecosystem-overview.md), чтобы понять связку WLRT, WaveCounter, WaveCounter IP S.L., BitCapital, Research Pool и KEFEN.
+3. Ознакомьтесь с последними ежемесячными отчетами, начиная с [последнего доступного отчета](cases/bitcapital-research-pool_april-2026_en.md).
 4. Проверьте актуальные бейджи в верхней части README и JSON-статусы в `.status/`.
 5. Примите дисклеймер: материалы имеют исследовательский характер и не являются инвестиционной рекомендацией.
 
@@ -126,19 +126,21 @@ BitCapital Research Pool является внутренней средой уп
 
 | Период | Язык | Отчет |
 |---|---:|---|
-| Январь 2026 | RU | [BitCapital Research Pool: январь 2026](docs/monthly-reports/bitcapital-research-pool_january-2026_ru.md) |
-| Февраль 2026 | RU | [BitCapital Итоги управления пулом ликвидности: февраль 2026](docs/monthly-reports/bitcapital-research-pool_february-2026_ru.md) |
-| Февраль 2026 | EN | [BitCapital Research Pool: February 2026](docs/monthly-reports/bitcapital-research-pool_february-2026_en.md) |
-| Март 2026 | RU | [BitCapital Итоги управления пулом ликвидности: март 2026](docs/monthly-reports/bitcapital-research-pool_march-2026_ru.md) |
-| Март 2026 | EN | [BitCapital Research Pool: March 2026](docs/monthly-reports/bitcapital-research-pool_march-2026_en.md) |
-| Апрель 2026 | EN | [BitCapital Research Pool: April 2026](docs/monthly-reports/bitcapital-research-pool_april-2026_en.md) |
+| Январь 2026 | RU | [BitCapital Research Pool: январь 2026](cases/bitcapital-research-pool_january-2026_ru.md) |
+| Февраль 2026 | RU | [BitCapital Итоги управления пулом ликвидности: февраль 2026](cases/bitcapital-research-pool_february-2026_ru.md) |
+| Февраль 2026 | EN | [BitCapital Research Pool: February 2026](cases/bitcapital-research-pool_february-2026_en.md) |
+| Март 2026 | RU | [BitCapital Итоги управления пулом ликвидности: март 2026](cases/bitcapital-research-pool_march-2026_ru.md) |
+| Март 2026 | EN | [BitCapital Research Pool: March 2026](cases/bitcapital-research-pool_march-2026_en.md) |
+| Апрель 2026 | EN | [BitCapital Research Pool: April 2026](cases/bitcapital-research-pool_april-2026_en.md) |
 
 ### Сводные отчеты
 
 | Период | Язык | Отчет |
 |---|---:|---|
-| Январь - апрель 2026 | RU | [BitCapital Отчет по управлению пулом ликвидности: январь - апрель 2026](docs/monthly-reports/bitcapital-research-pool_jan-apr-2026_ru.md) |
-| Январь - апрель 2026 | EN | [BitCapital Research Pool Report: January - April 2026](docs/monthly-reports/bitcapital-research-pool_jan-apr-2026_en.md) |
+| Январь - апрель 2026 | RU | [BitCapital Отчет по управлению пулом ликвидности: январь - апрель 2026](cases/bitcapital-research-pool_january-april-2026_ru.md) |
+| Январь - апрель 2026 | EN | [BitCapital Research Pool Report: January - April 2026](cases/bitcapital-research-pool_january-april-2026_en.md) |
+| Март - май 2026 | RU | [BitCapital Структурный отчет: март - май 2026](cases/bitcapital-research-pool_mar-may-2026_ru.md) |
+| Март - май 2026 | EN | [BitCapital Research Pool Report: March - May 2026](cases/bitcapital-research-pool_mar-may-2026_en.md) |
 
 ## Рекомендуемая структура репозитория
 
@@ -150,21 +152,25 @@ BitCapital Research Pool является внутренней средой уп
 │   ├── liquidity-mode.json
 │   ├── last-report.json
 │   └── governance-phase.json
-├── docs/
+├── architecture/
 │   ├── ecosystem-overview.md
-│   ├── repository-map.md
+│   └── repository-map.md
+├── docs/
+│   ├── index.md
+│   ├── README_BitCapital_investor_entry_template.md
 │   ├── research-publication-standard_ru.md
 │   ├── research-publication-standard_en.md
 │   ├── disclaimer_ru.md
-│   └── monthly-reports/
+│   ├── disclaimer_en.md
+│   └── cases/
 │       ├── bitcapital-research-pool_january-2026_ru.md
 │       ├── bitcapital-research-pool_february-2026_ru.md
 │       ├── bitcapital-research-pool_february-2026_en.md
 │       ├── bitcapital-research-pool_march-2026_ru.md
 │       ├── bitcapital-research-pool_march-2026_en.md
 │       ├── bitcapital-research-pool_april-2026_en.md
-│       ├── bitcapital-research-pool_jan-apr-2026_ru.md
-│       └── bitcapital-research-pool_jan-apr-2026_en.md
+│       ├── bitcapital-research-pool_january-april-2026_ru.md
+│       └── bitcapital-research-pool_january-april-2026_en.md
 └── governance/
     ├── proposals/
     └── decisions/
@@ -174,7 +180,7 @@ BitCapital Research Pool является внутренней средой уп
 
 ### При публикации нового ежемесячного отчета
 
-1. Добавьте отчет в `docs/monthly-reports/`.
+1. Добавьте отчет в `docs/cases/`.
 2. Добавьте строку в таблицу [ежемесячных отчетов](#ежемесячные-отчеты).
 3. Обновите `.status/last-report.json`.
 4. Если изменился режим ликвидности, обновите `.status/liquidity-mode.json`.
