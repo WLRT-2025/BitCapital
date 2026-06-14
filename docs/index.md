@@ -69,6 +69,13 @@ The `cases/` subdirectory contains applied research notes and structural reports
 - [`cases/bitcapital-research-pool_april-2026_ru.md`](cases/bitcapital-research-pool_april-2026_ru.md)  
   Структурная заметка за апрель 2026 года.
 
+- [May 2026 EN](cases/bitcapital-research-pool_may-2026_en.md)  
+  Structural note for May 2026.
+
+- [May 2026 RU](cases/bitcapital-research-pool_may-2026_ru.md)  
+  Структурная заметка за май 2026 года.
+
+
 - [`cases/bitcapital-research-pool_january-april-2026_en.md`](cases/bitcapital-research-pool_january-april-2026_en.md)  
   Consolidated report for January–April 2026.
 
