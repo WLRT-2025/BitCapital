@@ -129,6 +129,13 @@ The BitCapital layer exists inside a broader ecosystem:
 - [April 2026 RU](docs/cases/bitcapital-research-pool_april-2026_ru.md)  
   Структурная заметка за апрель 2026 года.
 
+- [May 2026 EN](docs/cases/bitcapital-research-pool_may-2026_en.md)  
+  Structural note for May 2026.
+
+- [May 2026 RU](docs/cases/bitcapital-research-pool_may-2026_ru.md)  
+  Структурная заметка за май 2026 года.
+
+
 ### Summary reports
 
 - [January-April 2026 EN](docs/cases/bitcapital-research-pool_january-april-2026_en.md)  
@@ -138,10 +145,11 @@ The BitCapital layer exists inside a broader ecosystem:
   Сводный отчёт за январь-апрель 2026 года.
 
 - [March-May 2026 EN](docs/cases/bitcapital-research-pool_mar-may-2026_en.md)  
-  Structural report for March-May 2026.
+  Structural report for March–May 2026 with focus on fragility and compensation mechanisms.
 
 - [March-May 2026 RU](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
-  Структурный отчёт за март-май 2026 года.
+  Структурный отчёт за март–май 2026 года с акцентом на хрупкость и компенсаторы.
+
 
 ## Related repositories
 
