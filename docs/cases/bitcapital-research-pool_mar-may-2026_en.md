@@ -20,21 +20,25 @@ This approach matters for two reasons. First, it separates the result of an indi
 |---|---:|---:|---:|---:|
 | March 2026 | 100,000 USDT | 105,407 USDT | +5,407 USDT | +5.41% |
 | April 2026 | 100,000 USDT | 106,434 USDT | +6,434 USDT | +6.43% |
-| May 2026 | 100,000 USDT | 119,111 USDT | +19,111 USDT | +19.11% |
+| May 2026 | 100,000 USDT | 117,731 USDT | +17,731 USDT | +17.73% |
 
-Across the three observed months, the total fixed result amounted to 30,952 USDT, corresponding to 30.95% of the 100,000 USDT calculation base. The strongest contribution to the cumulative result was recorded in May, when the total pool value reached 119,111 USDT.
+
+Across the three observed months, the total fixed result amounted to 29,572 USDT, corresponding to 29.57% of the 100,000 USDT calculation base. The strongest contribution to the cumulative result was recorded in May, when the total pool value reached 117,731 USDT.
+
 
 ## Pool structure at the end of May 2026
 
 | Asset | Value |
 |---|---:|
-| USDT | 8,671 USDT |
-| KEFEN | 95,850 USDT |
-| BTC | 10,686 USDT |
-| SOL | 3,904 USDT |
-| **Total** | **119,111 USDT** |
+| USDT | 13,171 USDT |
+| KEFEN | 90,752 USDT |
+| BTC | 10,131 USDT |
+| SOL | 3,677 USDT |
+| **Total** | **117,731 USDT** |
 
-A defining feature of the structure at the end of May was the high share of KEFEN in total pool value. Accordingly, the main contribution to the increase in pool value during May was associated primarily with the change in the market valuation of that position rather than with a uniform increase across all structural components.
+
+A key feature of the pool structure at the end of May was the simultaneous increase in the USDT liquidity share and the higher valuation of KEFEN as a strategic component of the system. Accordingly, the main contribution to the growth in pool value during May came both from the revaluation of KEFEN and from the broader structural rebalancing toward a stronger liquidity position.
+
 
 ## Structural observation
 
