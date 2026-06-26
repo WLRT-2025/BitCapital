@@ -88,11 +88,9 @@ The `cases/` subdirectory contains applied research notes and structural reports
 - [`cases/bitcapital-research-pool_mar-may-2026_ru.md`](cases/bitcapital-research-pool_mar-may-2026_ru.md)  
   Структурный отчет за март–май 2026 года с акцентом на хрупкость и компенсаторы.
   
-- [Peripheral Pool June 2026 EN](https://github.com/WLRT-2025/BitCapital/blob/main/docs/cases/bitcapital-research-pool_peripheral-june-2026_en.md)  
-  First peripheral pool management report for June 2026.
+Peripheral Pool June 2026 EN (cases/bitcapital-research-pool_peripheral-june-2026_en.md)  
+Peripheral Pool June 2026 RU (cases/bitcapital-research-pool_peripheral-june-2026_ru.md)
 
-- [Peripheral Pool June 2026 RU](https://github.com/WLRT-2025/BitCapital/blob/main/docs/cases/bitcapital-research-pool_peripheral-june-2026_ru.md)  
-  Отчёт по управлению первым периферийным пулом за июнь 2026 года.
 
 ## 6. Additional entry material
 
