@@ -91,8 +91,8 @@ The `cases/` subdirectory contains applied research notes and structural reports
   - [peripheral-june-2026-en.md](cases/peripheral-june-2026-en.md)
   First Peripheral Pool Management Report for June 2026.
 
-- [`cases/bitcapital-research-pool_peripheral-june-2026_ru.md`](cases/bitcapital-research-pool_peripheral-june-2026_ru.md)  
-  Отчёт по управлению первым периферийным пулом за июнь 2026 года.
+  - [peripheral-june-2026-ru.md](cases/peripheral-june-2026-ru.md)
+  Отчет по управлению первым периферийным пулом за июнь 2026 года.
 
 
 ## 6. Additional entry material
