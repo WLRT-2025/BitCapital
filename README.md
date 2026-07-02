@@ -135,10 +135,10 @@ The BitCapital layer exists inside a broader ecosystem:
 - [May 2026 RU](docs/cases/bitcapital-research-pool_may-2026_ru.md)  
   Структурная заметка за май 2026 года.
 
-- [June 2026 EN](cases/BitCapital-June-26-EN.md)  
+-- [June 2026 EN](docs/cases/BitCapital-June-26-EN.md)  
   Structural note for June 2026.
 
-- [June 2026 RU](cases/BitCapital-June-26-RU.md)  
+- [June 2026 RU](docs/cases/BitCapital-June-26-RU.md)  
   Структурная заметка за июнь 2026 года.
 
 
