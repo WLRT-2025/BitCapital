@@ -152,11 +152,9 @@ The BitCapital layer exists inside a broader ecosystem:
 
   ### Peripheral pool notes
 
-- [Peripheral Pool June 2026 EN](docs/cases/bitcapital-research-pool_peripheral-june-2026_en.md)  
-  First peripheral pool management report for June 2026.
-
-- [Peripheral Pool June 2026 RU](docs/cases/bitcapital-research-pool_peripheral-june-2026_ru.md)  
-  Отчёт по управлению первым периферийным пулом за июнь 2026 года.
+- [First Peripheral Pool Management Report (June 2026)](docs/cases/peripheral-june-2026-en.md)
+    
+- [Отчет по управлению первым периферийным пулом (июнь 2026)](docs/cases/peripheral-june-2026-ru.md)
 
 
 
