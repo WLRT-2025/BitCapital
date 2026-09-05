@@ -156,11 +156,21 @@ The BitCapital layer exists inside a broader ecosystem:
 - [March-May 2026 RU](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
   Структурный отчёт за март–май 2026 года с акцентом на хрупкость и компенсаторы.
 
+  - [January-August 2026 EN](docs/cases/bitcapital-january-august-2026-en.md)  
+  Consolidated report for January-August 2026: from the Strategic Pool to a distributed liquidity management system.
+
+- [January-August 2026 RU](docs/cases/bitcapital-january-august-2026-ru.md)  
+  Сводный отчет за январь-август 2026: от Стратегического Пула к распределенной системе управления ликвидностью.
+
   ### Peripheral pool notes
 
 - [First Peripheral Pool Management Report (June 2026)](docs/cases/peripheral-june-2026-en.md)
     
 - [Отчет по управлению первым периферийным пулом (июнь 2026)](docs/cases/peripheral-june-2026-ru.md)
+
+- [Peripheral Pools Management Report — August 2026 EN](docs/cases/peripheral-august-2026-en.md)
+
+- [Отчет по управлению периферийными Пулами — август 2026 RU](docs/cases/peripheral-august-2026-ru.md)
 
 
 
