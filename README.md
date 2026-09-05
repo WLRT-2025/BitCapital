@@ -155,8 +155,8 @@ The BitCapital layer exists inside a broader ecosystem:
 
 - [March-May 2026 RU](docs/cases/bitcapital-research-pool_mar-may-2026_ru.md)  
   Структурный отчёт за март–май 2026 года с акцентом на хрупкость и компенсаторы.
-
-  - [January-August 2026 EN](docs/cases/bitcapital-january-august-2026-en.md)  
+  
+- [January-August 2026 EN](docs/cases/bitcapital-january-august-2026-en.md)  
   Consolidated report for January-August 2026: from the Strategic Pool to a distributed liquidity management system.
 
 - [January-August 2026 RU](docs/cases/bitcapital-january-august-2026-ru.md)  
