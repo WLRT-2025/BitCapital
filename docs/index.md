@@ -101,6 +101,29 @@ The `cases/` subdirectory contains applied research notes and structural reports
   - [peripheral-june-2026-ru.md](cases/peripheral-june-2026-ru.md)
   Отчет по управлению первым периферийным пулом за июнь 2026 года.
 
+### Consolidated performance reports
+
+- [January–August 2026 EN](cases/bitcapital-january-august-2026-en.md)  
+  Consolidated report on the development of distributed liquidity pool management.
+
+- [January–August 2026 RU](cases/bitcapital-january-august-2026-ru.md)  
+  Сводный отчет за январь–август 2026 года.
+
+- [January–September 2026 EN](cases/bitcapital-january-september-2026-en.md)  
+  Nine-month consolidated financial result: +80,017.69 USDT. The first annuity period completed October 12 is reported separately.
+
+- [January–September 2026 RU](cases/bitcapital-january-september-2026-ru.md)  
+  Сводный результат за девять месяцев: +80 017,69 USDT. Первый аннуитетный период, завершенный 12 октября, представлен отдельно.
+
+### August 2026 Peripheral Pool Reports
+
+- [Peripheral Pools — August 2026 EN](cases/peripheral-august-2026-en.md)  
+  Management results for four peripheral liquidity pools.
+
+- [Периферийные пулы — август 2026 RU](cases/peripheral-august-2026-ru.md)  
+  Результаты управления четырьмя периферийными пулами.
+
+
 
 ## 6. Additional entry material
 
