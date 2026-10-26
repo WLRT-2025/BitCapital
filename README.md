@@ -172,6 +172,13 @@ The BitCapital layer exists inside a broader ecosystem:
 
 - [Отчет по управлению периферийными Пулами — август 2026 RU](docs/cases/peripheral-august-2026-ru.md)
 
+- [January-September 2026 EN](docs/cases/bitcapital-january-september-2026-en.md)  
+  Nine-month consolidated BitCapital report: +80,017.69 USDT, with the first annuity period completed on October 12 presented separately.
+
+- [January-September 2026 RU](docs/cases/bitcapital-january-september-2026-ru.md)  
+  Сводный отчет BitCapital за девять месяцев: +80 017,69 USDT; первый аннуитетный период, завершенный 12 октября, представлен отдельно.
+
+
 
 
 
